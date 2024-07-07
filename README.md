@@ -9,4 +9,6 @@
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosz12&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosz12&size_weight=0.5&count_weight=0.5)
 
+[![Views](https://visitcount.itsvg.in/api?id=marcosz12&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 Estudando para me tornar um dev💪🏽
