@@ -6,7 +6,7 @@
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)]() [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]() [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 )]()
 
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosz12&show_icons=true&theme=radical)
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosz12&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosz12&size_weight=0.5&count_weight=0.5)
 
 [![Views](https://visitcount.itsvg.in/api?id=marcosz12&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
